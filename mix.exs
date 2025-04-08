@@ -28,7 +28,7 @@ defmodule MeeseeksHtml5ever.Mixfile do
 
   defp deps do
     [
-      {:rustler_precompiled, "~> 0.7.1"},
+      {:rustler_precompiled, "~> 0.8.2"},
 
       # Optional
       {:rustler, ">= 0.0.0", optional: true},
